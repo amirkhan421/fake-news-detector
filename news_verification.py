@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "aef4ed6037fc4d6a96f0e7c6a566310b"
+API_KEY = "YOUR API KEY HERE"
 
 def verify_news_online(news_text):
 
